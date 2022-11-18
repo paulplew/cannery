@@ -1,3 +1,5 @@
 # Untitled Serif #1
 
-This is my first font
+## About
+`Untitled Serif` was designed in 2022 for my Typography 3 class at Northeastern University. 
+
